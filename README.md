@@ -1,5 +1,3 @@
-## 🌴 Vacationing until august 27
-
 ### Hi there 👋
 
 🔭 I’m currently working on [KorGE 👾](https://github.com/korlibs/korge) a Multiplatform Game Engine for Kotlin and [Korlibs](https://github.com/korlibs/), a set of Multiplaform Libraries for Kotlin.
